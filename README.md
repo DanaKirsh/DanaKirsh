@@ -4,8 +4,6 @@ My name is Dana, and I'm a software engineer at [Capsule](https://capsulecrm.com
 
 ![here's a gif](https://3.bp.blogspot.com/-PtbCYzPXWI4/Wh-5NKiH0pI/AAAAAAAAAaM/m9JPuj2P6P0VJbvEvEiGoWvl52BKNuBQgCLcBGAs/s1600/diferentTimezones.gif)
 
-![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=DanaKirsh.DanaKirsh)
-
 <!--
 **DanaKirsh/DanaKirsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
